@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm Evgenii, a .Net developer.
+Interesting in photography, ergonomic split keyboards and other DYI projects.
 
 <!--
 **beta-tank/beta-tank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
